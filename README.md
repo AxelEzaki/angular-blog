@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # angular-blog
 A blog project created with Angular based on dribbble.com layout
->>>>>>> 2994a2b2f8ef7d6b7b24b68903fb79adc3e0cd56
