@@ -2,7 +2,7 @@
     color: white;
 }
 
-.menu_title_container > h1 {
+.menu_title_container > a > h1 {
     margin-top: 15px;
     margin-bottom: 15px;
     font-size: 175px;
@@ -11,7 +11,7 @@
     justify-content: center;
 }
 
-.menu_title_container > hr {
+.menu_title_container > a > hr {
     margin-top: 20px;
     margin-bottom: 10px;
 }
